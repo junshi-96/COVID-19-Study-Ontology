@@ -1,2 +1,6 @@
 detector,indentifier,unit
-detector1,SIO:000367,UO:0000000
+COVID-19,DOID:0080600,
+coronavirus,OMIT:0018195,
+death,OMIT:0004926,
+recovered,OGMS:0000122,
+count of disease cases,APOLLO_SV:00000497,
